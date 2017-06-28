@@ -38,6 +38,6 @@
     "sort-packages": true
   },
   "extra": {
-    "branch-alias": "1.0-dev"
+    "branch-alias": "1.0.x-dev"
   }
 }
